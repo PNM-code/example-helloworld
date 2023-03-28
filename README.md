@@ -1,2 +1,2 @@
 # hello-work
-Code input "Hello world" of all  program languages 
+Code print "Hello world" of all  program languages 
