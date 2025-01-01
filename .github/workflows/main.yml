@@ -22,4 +22,4 @@ jobs:
           
       - name: Test Python Example
         run: |
-          python main.py
+          python main_python3.py
