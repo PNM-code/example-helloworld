@@ -1,0 +1,13 @@
+name: test push
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+jobs:
+  test-hello-world:
+    name: Test Hello World Programs
+    runs-on: ubuntu-latest
