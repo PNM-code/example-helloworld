@@ -9,6 +9,16 @@ Welcome to the **Multi-Language Hello World Examples** repository! This project 
 - **Beginner-Friendly**: Perfect for new developers to explore different programming languages.
 - **Open for Contributions**: Add your favorite language or improve existing examples.
 
+  ## go lang
+  ```bash
+  go build main.go
+  ./main
+  ```
+
   ## python 3
-  `$ python main_python3.py`
+  ```bash
+  python main_python3.py
+  ```
+  
+  
   
