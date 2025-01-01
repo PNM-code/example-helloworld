@@ -22,4 +22,4 @@ jobs:
           
       - name: Test Python Example
         run: |
-          python languages/python/hello_world.py
+          python main.py
